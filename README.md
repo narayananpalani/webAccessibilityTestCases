@@ -1,7 +1,7 @@
 # Web Accessibility Test Cases
 Sample Test Cases written to test the web pages according to WCAG 2.1 and it can be implemented in any web development projects by simply updating the target URL in each test cases with steps to test those web applications.
 
-⚡Don't forget to click on Star and watch on this repository. Please 'fork' the repository, add more test cases in excels and create a pull request.
+⚡Don't forget to click on 'Star' and 'watch' on this repository. Please 'fork' the repository, add more test cases in excels and create a pull request. After successful addition of tests, don't forget to include this open source contribution in your 'Resume' to attract better job opportunities
 
 ## Usage
 - Download or Clone the repository
