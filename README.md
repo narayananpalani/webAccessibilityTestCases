@@ -29,6 +29,12 @@ Source: [Guide to digital accessibility](https://www.civicplus.com/blog/ce/guide
 - Need to learn how to create a pull request?
 [![Learn to create a pull request](https://i.ytimg.com/vi/rgbCcBNZcdQ/maxresdefault.jpg?raw=true)](https://www.youtube.com/watch?v=rgbCcBNZcdQ&t=7s)
 
+## Articles
+
+Improved need for web accessibility testing:
+
+[![Improved need for web accessibility testing](https://www.softwaretestingnews.co.uk/wp-content/uploads/2019/11/world-1024x683.jpg?raw=true)](https://www.softwaretestingnews.co.uk/improved-need-for-web-accessibility-testing/)
+
 
 ## Global Reach
 
