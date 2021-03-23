@@ -8,6 +8,28 @@ Sample Test Cases written to test the web pages according to WCAG 2.1 and it can
 - Install Microsoft Excel
 - Open the test cases from Excel to read the content and amend for your project needs
 
+## Test Coverage
+[![WCAG Test Coverage](https://github.com/narayananpalani/webAccessibilityTestCases/blob/master/A-AA-AAA%20Reference.jpg?raw=true)](https://engineers-hub.teachable.com/)
+
+
+Source: [Guide to digital accessibility](https://www.civicplus.com/blog/ce/guide-to-digital-accessibility-for-local-government)
+
+## How the Test Execution Works?
+- Refer Sample Tests on Images Testing Here: [WCAG 1.1.1 Images Test Cases](https://github.com/narayananpalani/webAccessibilityTestCases/blob/master/Perceivable/01%20Test%20Case%201.1.1%20Image/01%20WCAG_1.1.1_Image_Narayanan_Palani_TestCase_v1.xlsx)
+- Refer Sample Tests's Result on Images Testing Here: [WCAG 1.1.1 Images Test Cases-Result](https://github.com/narayananpalani/webAccessibilityTestCases/blob/master/Perceivable/01%20Test%20Case%201.1.1%20Image/01%20WCAG_1.1.1_Image_Narayanan_Palani%20TestResults_v1.xlsx)
+
+### Test Result
+[![Test Result](https://github.com/narayananpalani/webAccessibilityTestCases/blob/master/Perceivable/01%20Test%20Case%201.1.1%20Image/Test%20Result-Fail.png?raw=true)](https://engineers-hub.teachable.com/)
+
+## Your Code Contribution
+
+- Learn on what tests are missing from this code repository by looking at WCAG test coverage image.
+
+- Clone the repository,create a branch and write new tests, once ready-please create a pull request. 
+- Need to learn how to create a pull request?
+[![Learn to create a pull request](https://i.ytimg.com/vi/rgbCcBNZcdQ/maxresdefault.jpg?raw=true)](https://www.youtube.com/watch?v=rgbCcBNZcdQ&t=7s)
+
+
 ## Global Reach
 
 :rocket: I help engineers across 151+ countries through [Teachable](https://engineers-hub.teachable.com/).
