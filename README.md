@@ -8,33 +8,9 @@ Sample Test Cases written to test the web pages according to WCAG 2.1 and it can
 - Install Microsoft Excel
 - Open the test cases from Excel to read the content and amend for your project needs
 
-## How to Use? Guide
-- Instructions to write Non Text Content Test
-[Video Guide](https://github.com/narayananpalani/webAccessibilityTestCases/blob/master/VideoWalkthrough/1.01%20Non%20Text%20Content%20Test%20v1.flv)
+## How to Use? Free Course
 
-- Instructions to write InfoAndRelationships Test
-[Video Guide](https://github.com/narayananpalani/webAccessibilityTestCases/blob/master/VideoWalkthrough/2.01%20InfoAndRelationships%20v1.flv)
-
-- Instructions to write Meaningful Sequence Test
-[Video Guide](https://github.com/narayananpalani/webAccessibilityTestCases/blob/master/VideoWalkthrough/3.01%20Meaningful%20Sequence%20v1.flv)
-
-- Instructions to write Sensory Characteristics Test
-[Video Guide](https://github.com/narayananpalani/webAccessibilityTestCases/blob/master/VideoWalkthrough/4.01%20Sensory%20Characteristics%20v1.flv)
-
-- Instructions to write Use of Color Test
-[Video Guide](https://github.com/narayananpalani/webAccessibilityTestCases/blob/master/VideoWalkthrough/5.01%20Use%20of%20Color%20v1.flv)
-
-- Instructions to write Audio Control Test
-[Video Guide](https://github.com/narayananpalani/webAccessibilityTestCases/blob/master/VideoWalkthrough/6.01%20Audio%20Control%20v1.flv)
-
-- Instructions to write Minimum Contrast Test
-[Video Guide](https://github.com/narayananpalani/webAccessibilityTestCases/blob/master/VideoWalkthrough/7.01%20Minimum%20Contrast%20v1.flv)
-
-- Instructions to write Resize Text Test
-[Video Guide](https://github.com/narayananpalani/webAccessibilityTestCases/blob/master/VideoWalkthrough/8.01%20Resize%20Text%20v1.flv)
-
-- Instructions to write Image of Text Test
-[Video Guide](https://github.com/narayananpalani/webAccessibilityTestCases/blob/master/VideoWalkthrough/9.01%20Images%20of%20Text%20v1.flv)
+https://engineers-hub.teachable.com/p/web-accessibility-test-cases
 
 ## Test Coverage
 [![WCAG Test Coverage](https://github.com/narayananpalani/webAccessibilityTestCases/blob/master/A-AA-AAA%20Reference.jpg?raw=true)](https://engineers-hub.teachable.com/)
