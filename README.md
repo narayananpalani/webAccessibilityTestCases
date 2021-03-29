@@ -12,6 +12,8 @@ Sample Test Cases written to test the web pages according to WCAG 2.1 and it can
 
 https://engineers-hub.teachable.com/p/web-accessibility-test-cases
 
+Free courses on Selenium, CypressIO Testing: https://engineers-hub.teachable.com/courses
+
 ## Test Coverage
 [![WCAG Test Coverage](https://github.com/narayananpalani/webAccessibilityTestCases/blob/master/A-AA-AAA%20Reference.jpg?raw=true)](https://engineers-hub.teachable.com/)
 
